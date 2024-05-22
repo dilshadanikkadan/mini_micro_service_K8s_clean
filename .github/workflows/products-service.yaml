@@ -26,4 +26,4 @@ jobs:
         with:
           context: ./products/
           push: true
-          tags: dilshadjr3312/ezart:latest
+          tags: dilshadjr3312/ezart-product:latest
