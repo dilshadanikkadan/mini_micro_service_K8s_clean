@@ -24,6 +24,6 @@ jobs:
       - name: Build and Push Docker image
         uses: docker/build-push-action@v4
         with:
-          context: ./auth-service/
+          context: ./cart/
           push: true
           tags: dilshadjr3312/ezart:latest
