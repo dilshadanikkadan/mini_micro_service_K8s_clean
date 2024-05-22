@@ -3,3 +3,4 @@ export const INTERFACE_TYPE = {
   ProductInteractor: Symbol.for("ProductInteractor"),
   ProductController: Symbol.for("ProductController"),
 };
+//
