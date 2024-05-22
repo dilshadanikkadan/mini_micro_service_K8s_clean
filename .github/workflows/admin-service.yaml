@@ -26,4 +26,4 @@ jobs:
         with:
           context: ./admin/
           push: true
-          tags: dilshadjr3312/ezart-admin:latest
+          tags: dilshadjr3312/ezart-admin-service:latest

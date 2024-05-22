@@ -26,4 +26,4 @@ jobs:
         with:
           context: ./auth/
           push: true
-          tags: dilshadjr3312/ezart-auth:latest
+          tags: dilshadjr3312/ezart-auth-service:latest
